@@ -1,8 +1,8 @@
 # 🍓Survey 
-## 🦑Paper Summary
+## 🦑 Paper Summary
 https://github.com/j20232/survey/issues
 
-## 📖Library
+## 📖 Library
 ### Fluid Simulation
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
