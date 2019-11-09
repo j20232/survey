@@ -1,7 +1,4 @@
-# survey
-## About
-🍓 Survey repository
-
+# Survey 🍓
 ## Paper Summary
 https://github.com/j20232/survey/issues
 
