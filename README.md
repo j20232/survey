@@ -2,8 +2,19 @@
 ## 🦑 Paper Summary
 https://github.com/j20232/survey/issues
 
-## 📖 Library
-### Fluid Simulation
+## 📖 Useful Links
+
+
+### Material Point Method
+- [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction of MPM by top researchers
+- [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/): there are many useful links of MPM
+   - [squarefk/ziran2019](https://github.com/squarefk/ziran2019): OSS of MPM
+- [Craig Schroeder](https://www.cs.ucr.edu/~craigs/research.html): some researches
+- [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/): he mainly study the mixing of particles
+- [AndrewSelle](http://www.andyselle.com/): currently, he doesn't study MPM
+- [Taichi](https://github.com/yuanming-hu/taichi): programming language for high-performance sparse visual computing
+- [MeyerFabian/snow](https://github.com/MeyerFabian/snow): simple implementation of https://github.com/j20232/survey/issues/12
+
+### Other Fluid Simulation
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
-- [Taichi](https://github.com/yuanming-hu/taichi): programming language for high-performance sparse visual computing
