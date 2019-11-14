@@ -6,8 +6,8 @@ https://github.com/j20232/survey/issues
 
 
 ### Material Point Method
-- [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction of MPM by top researchers
-- [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/): there are many useful links of MPM
+- [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction about MPM by top researchers
+- [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/): there are many useful links about MPM
    - [squarefk/ziran2019](https://github.com/squarefk/ziran2019): OSS of MPM
 - [Craig Schroeder](https://www.cs.ucr.edu/~craigs/research.html): some researches
 - [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/): he mainly study the mixing of particles
