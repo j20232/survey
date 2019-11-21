@@ -27,18 +27,20 @@ https://github.com/j20232/survey/issues
 
 ## 📖 Useful Links
 
-### Computer Vision
+### 2D Computer Vision
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
 - [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera):  C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 - [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
+- [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
 
 ### Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): Physical based rendering with Vulkan using glTF 2.0 models
 
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
+- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
 
 ### Topology for Computer Graphics
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
