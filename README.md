@@ -19,6 +19,7 @@ https://github.com/j20232/survey/issues
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
+- [InteractiveComputerGraphics/SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial): "Smoothed Particle Hydrodynamics for Physically-Based Simulation of Fluids and Solids", Eurographics Tutorial, 2019
 
 ### PBD
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
