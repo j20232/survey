@@ -23,6 +23,11 @@ https://github.com/j20232/survey/issues
 
 ## 📖 Useful Links
 
+### Computer Vision
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
+- [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
+- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO): Visual Inertial Odometry pipeline for accurate State Estimation from Stereo + IMU data
+- [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
 
 ### Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): Physical based rendering with Vulkan using glTF 2.0 models
@@ -30,14 +35,10 @@ https://github.com/j20232/survey/issues
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
 
-### Topological Tools for Computer Graphics
+### Topology for Computer Graphics
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
 
-### CV Tools
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
-- [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
-- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO): Visual Inertial Odometry pipeline for accurate State Estimation from Stereo + IMU data
