@@ -22,8 +22,11 @@ https://github.com/j20232/survey/issues
 ### Mesh
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 
+### Vulkan
+- [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): Physical based rendering with Vulkan using glTF 2.0 models
+
 ### Converter
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 
-### Vulkan
-- [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): Physical based rendering with Vulkan using glTF 2.0 models
+### CV Tools
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's next generation software system that implements SOTA object detection algorithms
