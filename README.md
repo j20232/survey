@@ -46,7 +46,8 @@ https://github.com/j20232/survey/issues
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): physical based rendering with Vulkan using glTF 2.0 models
 - [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
-- [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+- [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
+- [CaffeineViking/vkhr](https://github.com/CaffeineViking/vkhr): Real-Time Hybrid Hair Rendering using Vulkan
 
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
