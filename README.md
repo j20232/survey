@@ -35,6 +35,7 @@ https://github.com/j20232/survey/issues
 - [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin): a PyTorch Library for Accelerating 3D Deep Learning Research
 
 ### Vulkan
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
