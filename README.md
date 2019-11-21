@@ -62,3 +62,5 @@ https://github.com/j20232/survey/issues
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
 
+### Web Design
+- [Hover.css](http://ianlunn.github.io/Hover/): a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on
