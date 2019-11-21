@@ -37,3 +37,4 @@ https://github.com/j20232/survey/issues
 
 ### CV Tools
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
+- [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
