@@ -45,6 +45,7 @@ https://github.com/j20232/survey/issues
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
+- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
 ### Topology for Computer Graphics
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
