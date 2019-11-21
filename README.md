@@ -40,6 +40,7 @@ https://github.com/j20232/survey/issues
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin): a PyTorch Library for Accelerating 3D Deep Learning Research
+- [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
 
 ### Vulkan
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
