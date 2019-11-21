@@ -37,6 +37,7 @@ https://github.com/j20232/survey/issues
 
 ### Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): Physical based rendering with Vulkan using glTF 2.0 models
+- [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
 
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
