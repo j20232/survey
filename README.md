@@ -19,11 +19,9 @@ https://github.com/j20232/survey/issues
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
 
-### 3D Library
-- [MPI-IS/mesh](https://github.com/MPI-IS/mesh): MPI-IS Mesh Processing Library
+### Mesh
+- [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 
 
 ### Vulkan
 
-
-### a
