@@ -52,11 +52,12 @@ https://github.com/j20232/survey/issues
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
 - [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
-### Topology for Computer Graphics
+### Computer Graphics
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
+- [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
 
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
