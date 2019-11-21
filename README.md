@@ -15,9 +15,10 @@ https://github.com/j20232/survey/issues
 - [Taichi](https://github.com/yuanming-hu/taichi): programming language for high-performance sparse visual computing
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow): simple implementation of https://github.com/j20232/survey/issues/12
 
-### Other Fluid Simulation
+### Fluid Simulation
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
+- [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
 
 ---
 
