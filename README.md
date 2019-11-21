@@ -2,8 +2,8 @@
 ## 🦑 Paper Summary
 https://github.com/j20232/survey/issues
 
-## 📖 Useful Links
 
+## 🌊 Continuum Simulation
 
 ### Material Point Method
 - [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction about MPM by top researchers
@@ -18,6 +18,10 @@ https://github.com/j20232/survey/issues
 ### Other Fluid Simulation
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
+
+---
+
+## 📖 Useful Links
 
 ### Mesh
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
