@@ -24,14 +24,18 @@ https://github.com/j20232/survey/issues
 ### PBD
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
 
+### PHysics Engine
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3): official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
+
 ---
 
 ## 📖 Useful Links
 
-### 2D Computer Vision
+### Computer Vision
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
 - [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera):  C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
+- [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam): a monocular, stereo, and RGBD visual SLAM system
 - [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
