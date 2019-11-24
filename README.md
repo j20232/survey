@@ -21,10 +21,11 @@ https://github.com/j20232/survey/issues
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
 - [InteractiveComputerGraphics/SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial): "Smoothed Particle Hydrodynamics for Physically-Based Simulation of Fluids and Solids", Eurographics Tutorial, 2019
 
-### PBD
+### Position Based Dynamics
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
+- [ltt1598/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials](https://github.com/ltt1598/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials): approximation methods for realtime PBD
 
-### PHysics Engine
+### Physics Engine
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3): official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 
 ---
