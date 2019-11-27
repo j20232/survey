@@ -14,6 +14,7 @@ https://github.com/j20232/survey/issues
 - [AndrewSelle](http://www.andyselle.com/): currently, he doesn't study MPM
 - [Taichi](https://github.com/yuanming-hu/taichi): programming language for high-performance sparse visual computing
 - [MeyerFabian/snow](https://github.com/MeyerFabian/snow): simple implementation of https://github.com/j20232/survey/issues/12
+- [GitHub's Tag](https://github.com/topics/material-point-method)
 
 ### Fluid Simulation
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
