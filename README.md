@@ -13,7 +13,6 @@ https://github.com/j20232/survey/issues
 - [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/): he mainly study the mixing of particles
 - [AndrewSelle](http://www.andyselle.com/): currently, he doesn't study MPM
 - [Taichi](https://github.com/yuanming-hu/taichi): programming language for high-performance sparse visual computing
-- [MeyerFabian/snow](https://github.com/MeyerFabian/snow): simple implementation of https://github.com/j20232/survey/issues/12
 - [GitHub's Tag](https://github.com/topics/material-point-method)
 
 ### Fluid Simulation
