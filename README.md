@@ -70,6 +70,9 @@ https://github.com/j20232/survey/issues
 - [GLM](https://glm.g-truc.net/0.9.9/index.html):  a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
 - [sgorsten/linalg](https://github.com/sgorsten/linalg): a single header, public domain, short vector math library for C++
 
+### Visualization
+- [Kitware/VTK](https://github.com/Kitware/VTK): an open-source software system for image processing, 3D graphics, volume rendering and visualization
+
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
 
