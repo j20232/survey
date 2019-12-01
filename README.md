@@ -20,6 +20,7 @@ https://github.com/j20232/survey/issues
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
 - [InteractiveComputerGraphics/SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial): "Smoothed Particle Hydrodynamics for Physically-Based Simulation of Fluids and Solids", Eurographics Tutorial, 2019
+- [tunabrain/incremental-fluids](https://github.com/tunabrain/incremental-fluids): The purpose of this project is to provide simple, easy to understand fluid solver implementations in C++, together with code documentation, algorithm explanation and recommended reading
 
 ### Position Based Dynamics
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
