@@ -7,6 +7,7 @@ https://github.com/j20232/survey/issues
 
 ### Material Point Method
 - [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction about MPM by top researchers
+- [Joseph M. Teran](https://www.math.ucla.edu/~jteran/): computational biomechanics/virtual surgery, computational solid and fluid mechanics, meshing, collision detection/contact modeling, multigrid methods, parallel computing and solid/fluid coupling
 - [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/): there are many useful links about MPM
    - [squarefk/ziran2019](https://github.com/squarefk/ziran2019): open source MPM implementations
 - [Craig Schroeder](https://www.cs.ucr.edu/~craigs/research.html): some researches
