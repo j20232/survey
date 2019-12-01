@@ -56,14 +56,16 @@ https://github.com/j20232/survey/issues
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
 - [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
-- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
 ### Computer Graphics
-- [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
-- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
 - [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
+
+
+### Mesh
+- [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
+- [optimad/mimmo](https://github.com/optimad/mimmo): a C++ library for Manipulation and Morphing of surface/volume meshes
 
 ### Linear Algebra
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
@@ -72,6 +74,11 @@ https://github.com/j20232/survey/issues
 
 ### Visualization
 - [Kitware/VTK](https://github.com/Kitware/VTK): an open-source software system for image processing, 3D graphics, volume rendering and visualization
+
+### Data Structure
+- [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
+- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
+- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
