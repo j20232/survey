@@ -63,6 +63,11 @@ https://github.com/j20232/survey/issues
 - [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
 - [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
 
+### Linear Algebra
+- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+- [GLM](https://glm.g-truc.net/0.9.9/index.html):  a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+- [sgorsten/linalg](https://github.com/sgorsten/linalg): a single header, public domain, short vector math library for C++
+
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
 
