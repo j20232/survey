@@ -45,20 +45,22 @@ https://github.com/j20232/survey/issues
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin): a PyTorch Library for Accelerating 3D Deep Learning Research
 - [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
 
-### Vulkan
+### GPU acceleration
+- [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
+
+
+### Renderer
+- [BachiLi](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): physical based rendering with Vulkan using glTF 2.0 models
-- [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
-- [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
 - [CaffeineViking/vkhr](https://github.com/CaffeineViking/vkhr): Real-Time Hybrid Hair Rendering using Vulkan
+- [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
+
 
 ### Optimization
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
 - [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
-
-### Renderer
-- [BachiLi](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 
 ### Geometry
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
