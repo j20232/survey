@@ -57,15 +57,21 @@ https://github.com/j20232/survey/issues
 - [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
 
-### Computer Graphics
-- [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
-- [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
-- [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
+### Renderer
+- [BachiLi](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 
+### Geometry
+- [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 
 ### Mesh
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 - [optimad/mimmo](https://github.com/optimad/mimmo): a C++ library for Manipulation and Morphing of surface/volume meshes
+
+### Point cloud
+- [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
+
+### Material
+- [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
 
 ### Linear Algebra
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
