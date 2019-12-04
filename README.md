@@ -38,7 +38,7 @@ https://github.com/j20232/survey/issues
 ### Computer Vision
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
 
-## 3D Vision
+### 3D Vision
 - [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin): a PyTorch Library for Accelerating 3D Deep Learning Research
 - [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
