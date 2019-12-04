@@ -35,7 +35,7 @@ https://github.com/j20232/survey/issues
 
 ## 📖 Useful Links
 
-## Computer Vision
+## 📷 Computer Vision
 ### General
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
 
@@ -53,7 +53,7 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## Computer Graphics
+## 🐰 Computer Graphics
 
 ### GPU acceleration
 - [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
@@ -74,7 +74,7 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## Data Structure
+## 🌐 Data Structure
 
 ### General
 - [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
@@ -100,7 +100,7 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## Numerical Calculation
+## 📈 Numerical Calculation
 
 ### Linear Algebra
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
@@ -117,6 +117,6 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## Web Tools
+## 💻 Web Tools
 ### Web Design
 - [Hover.css](http://ianlunn.github.io/Hover/): a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on
