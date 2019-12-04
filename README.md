@@ -75,8 +75,9 @@ https://github.com/j20232/survey/issues
 ---
 
 ## Data Structure
+
+### General
 - [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
-- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 - [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
 ### Geometry
@@ -93,6 +94,9 @@ https://github.com/j20232/survey/issues
 
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
+
+### glTF
+- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 
 ---
 
