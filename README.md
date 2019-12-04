@@ -35,7 +35,8 @@ https://github.com/j20232/survey/issues
 
 ## 📖 Useful Links
 
-### Computer Vision
+## Computer Vision
+### General
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
 
 ### 3D Vision
@@ -50,6 +51,10 @@ https://github.com/j20232/survey/issues
 - [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera):  C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 - [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam): a monocular, stereo, and RGBD visual SLAM system
 
+---
+
+## Computer Graphics
+
 ### GPU acceleration
 - [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
 
@@ -61,10 +66,18 @@ https://github.com/j20232/survey/issues
 - [CaffeineViking/vkhr](https://github.com/CaffeineViking/vkhr): Real-Time Hybrid Hair Rendering using Vulkan
 - [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
 
-### Optimization
-- [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
-- [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
-- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
+### Material
+- [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
+
+### Visualization
+- [Kitware/VTK](https://github.com/Kitware/VTK): an open-source software system for image processing, 3D graphics, volume rendering and visualization
+
+---
+
+## Data Structure
+- [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
+- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
+- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
 
 ### Geometry
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
@@ -78,27 +91,28 @@ https://github.com/j20232/survey/issues
 ### Point cloud
 - [InteractiveComputerGraphics/CompactNSearch](https://github.com/InteractiveComputerGraphics/CompactNSearch): a C++ library to compute neighborhood information for point clouds within a fixed radius. Suitable for many applications, e.g. neighborhood search for SPH fluid simulations.
 
-### Material
-- [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
+### Graph
+- [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
+
+---
+
+## Numerical Calculation
 
 ### Linear Algebra
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
 - [GLM](https://glm.g-truc.net/0.9.9/index.html):  a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
 - [sgorsten/linalg](https://github.com/sgorsten/linalg): a single header, public domain, short vector math library for C++
 
-### Visualization
-- [Kitware/VTK](https://github.com/Kitware/VTK): an open-source software system for image processing, 3D graphics, volume rendering and visualization
-
-### Data Structure
-- [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
-- [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
-- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki): structured vectorization and differentiation on modern processor architectures
-
-### Graph
-- [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
+### Optimization
+- [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
+- [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
+- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
 
 ### Algorithm
 - [Algorithm Visualizer](https://algorithm-visualizer.org/): an interactive online platform that visualizes algorithms from code
 
+---
+
+## Web Tools
 ### Web Design
 - [Hover.css](http://ianlunn.github.io/Hover/): a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on
