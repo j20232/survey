@@ -33,8 +33,6 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## 📖 Useful Links
-
 ## 📷 Computer Vision
 ### General
 - [kornia/kornia](https://github.com/kornia/kornia): Open Source Differentiable Computer Vision Library for PyTorch
