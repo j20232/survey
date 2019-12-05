@@ -65,6 +65,9 @@ https://github.com/j20232/survey/issues
 - [CaffeineViking/vkhr](https://github.com/CaffeineViking/vkhr): Real-Time Hybrid Hair Rendering using Vulkan
 - [techlabxe/vulkan_book_1](https://github.com/techlabxe/vulkan_book_1): sample code of "Vulkan Programming Vol.1"
 
+### Skinning
+- [electronicarts/dem-bones](https://github.com/electronicarts/dem-bones): An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
+
 ### Material
 - [Material Database](https://rgl.epfl.ch/materials): an interactive interface to materials
 
