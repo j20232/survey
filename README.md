@@ -98,8 +98,16 @@ https://github.com/j20232/survey/issues
 ### Graph
 - [dmlc/dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks
 
+### exr
+- [AcademySoftwareFoundation/openexr](https://github.com/AcademySoftwareFoundation/openexr): the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry
+- [syoyo/tinyexr](https://github.com/syoyo/tinyexr): a small, single header-only library to load and save OpenEXR(.exr) images
+
+### obj
+- [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader): Tiny but powerful single file wavefront obj loader written in C++03
+
 ### glTF
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf): Header only C++11 tiny glTF 2.0 library
 
 ---
 
