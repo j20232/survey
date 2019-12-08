@@ -128,7 +128,7 @@ https://github.com/j20232/survey/issues
 ### Algorithm
 - [Algorithm Visualizer](https://algorithm-visualizer.org/): an interactive online platform that visualizes algorithms from code
 
-## Parallel Programming
+### Parallel Programming
 - [intel/tbb](https://github.com/intel/tbb): C++ library for shared memory parallel programming and heterogeneous computing (intra-node distributed memory programming)
 
 ---
