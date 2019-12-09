@@ -31,6 +31,7 @@ https://github.com/j20232/survey/issues
 
 ### Physics Engine
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3): official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
+- [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX): a scalable multi-platform physics solution supporting a wide range of devices, from smartphones to high-end multicore CPUs and GPUs
 - [yuanming-hu/difftaichi](https://github.com/yuanming-hu/difftaichi): 10 Differentiable Physical Simulators Built with Taichi Differentiable Programming (DiffTaichi)
 
 ---
