@@ -125,7 +125,7 @@ https://github.com/j20232/survey/issues
 - [GLM](https://glm.g-truc.net/0.9.9/index.html):  a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
 - [sgorsten/linalg](https://github.com/sgorsten/linalg): a single header, public domain, short vector math library for C++
 
-### Optimization
+### Auto Differentiation
 - [facebookresearch/higher](https://github.com/facebookresearch/higher): pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps
 - [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
