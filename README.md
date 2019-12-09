@@ -88,6 +88,9 @@ https://github.com/j20232/survey/issues
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 
+### Vector
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss): library for efficient similarity search and clustering of dense vectors
+
 ### Mesh
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
 - [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
