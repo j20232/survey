@@ -132,6 +132,7 @@ https://github.com/j20232/survey/issues
 - [williamFalcon/pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): a very lightweight wrapper on PyTorch
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): an open source C++ library for modeling and solving large, complicated optimization problems
 - [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [autodiff/autodiff](https://github.com/autodiff/autodiff): a C++17 library that uses modern and advanced programming techniques to enable automatic computation of derivatives in an efficient and easy way
 
 ### Algorithm
 - [Algorithm Visualizer](https://algorithm-visualizer.org/): an interactive online platform that visualizes algorithms from code
