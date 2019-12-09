@@ -62,6 +62,8 @@ https://github.com/j20232/survey/issues
 - [mitsuba-renderer/mitsuba](https://github.com/mitsuba-renderer/mitsuba):  research-oriented rendering system in the style of PBRT, from which it derives much inspiration. It is written in portable C++, implements unbiased as well as biased techniques, and contains heavy optimizations targeted towards current CPU architectures 
 - [BachiLi/redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 - [google/filament](https://github.com/google/filament): a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+
+### Vulkan Implementations
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR): physical based rendering with Vulkan using glTF 2.0 models
 - [CaffeineViking/vkhr](https://github.com/CaffeineViking/vkhr): Real-Time Hybrid Hair Rendering using Vulkan
