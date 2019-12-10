@@ -142,6 +142,12 @@ https://github.com/j20232/survey/issues
 
 ---
 
-## 💻 Web Tools
+## 💻 IO
+### C++
+- [eliaskosunen/scnlib](https://github.com/eliaskosunen/scnlib): a modern C++ library for replacing scanf and std::istream
+
+---
+
+## 🕸 Web Tools
 ### Web Design
 - [Hover.css](http://ianlunn.github.io/Hover/): a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on
