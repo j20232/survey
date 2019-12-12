@@ -19,6 +19,7 @@ https://github.com/j20232/survey/issues
 
 ### Researcher about Fluid Simulation Applications
 - [Pascal Barla](https://www.labri.fr/perso/barla/blog/?page_id=81): understand how structural properties of substances (elasticity, plasticity, viscosity) are perceived in order to enable more direct artistic editing, avoiding trial and error common with simulations
+- [Prometech CG research](https://www.prometech.co.jp/cgresearch.html): new Dr.Nishita's group
 - [Yoshinori Dobashi](https://ime.ist.hokudai.ac.jp/~doba/projects.html): SPH
 - [Syuhei Sato](http://nishitalab.org/user/syuhei/index_eng.php): turbulence style transfer and interpolation of flow field
 
