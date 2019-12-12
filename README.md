@@ -61,9 +61,12 @@ https://github.com/j20232/survey/issues
 
 ### Renderer
 - [mitsuba-renderer/mitsuba](https://github.com/mitsuba-renderer/mitsuba):  research-oriented rendering system in the style of PBRT, from which it derives much inspiration. It is written in portable C++, implements unbiased as well as biased techniques, and contains heavy optimizations targeted towards current CPU architectures 
-- [BachiLi/redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 - [google/filament](https://github.com/google/filament): a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [lighttransport/nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
+
+### Differentiable Renderer
+- [BachiLi/redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
+- [pmh47/dirt](https://github.com/pmh47/dirt): a library for TensorFlow, that provides operations for rendering 3D meshes. It supports computing derivatives through geometry, lighting, and other parameters
 
 ### Vulkan Implementations
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan): a comprehensive collection of open source C++ examples for Vulkan
