@@ -25,6 +25,9 @@
 - [Masatoshi Ishikawa](http://ishikawa-vision.org/index-e.html): exploring parallel, high-speed, and real-time operations for sensory information processing
 - [Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/ja/research/): Gaze estimation, First-person vision, Hyperspectral imagingm Person re-identification, Photometric stereo, Reflectance and illumination analysis
 
+### Computer Graphics
+- [Shigeo Morishima](http://www.mlab.phys.waseda.ac.jp/?lang=en): face reconstruction, animation, continuum simulation, rendering
+
 ### Human Computer Interaction
 - [MIT Self-Assembly Lab](https://selfassemblylab.mit.edu/): self-assembly and programmable material technologies
 - [Stanford SHAPE Lab](http://shape.stanford.edu/): exploration of how we can interact with digital information in a more physical and tangible way
