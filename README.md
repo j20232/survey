@@ -10,6 +10,8 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 ---
 
 ## 🌊 Continuum Simulation
+### Material Point Method
+- [GitHub's Tag](https://github.com/topics/material-point-method)
 
 ### Fluid Simulation
 - [yuanming-hu/taichi](https://github.com/yuanming-hu/taichi): Programming Language for Sparse & Differentiable Programming
