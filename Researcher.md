@@ -15,3 +15,6 @@
 - [Yoshinori Dobashi](https://ime.ist.hokudai.ac.jp/~doba/projects.html): SPH
 - [Syuhei Sato](http://nishitalab.org/user/syuhei/index_eng.php): turbulence style transfer and interpolation of flow field
 - [Tetsuya Takahashi](http://www.cs.unc.edu/~tetsuya/): physically-based simulation, computational geometry, machine learning, and artificial intelligence
+
+### Geometry
+- [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometryy. including: scene understanding, shape collections and computational design
