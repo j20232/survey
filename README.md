@@ -12,6 +12,7 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 ## 🌊 Continuum Simulation
 
 ### Fluid Simulation
+- [yuanming-hu/taichi](https://github.com/yuanming-hu/taichi): Programming Language for Sparse & Differentiable Programming
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
