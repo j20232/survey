@@ -102,6 +102,7 @@ https://github.com/j20232/survey/issues
 ### Geometry
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
 
 ### Vector
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss): library for efficient similarity search and clustering of dense vectors
