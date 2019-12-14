@@ -17,4 +17,4 @@
 - [Tetsuya Takahashi](http://www.cs.unc.edu/~tetsuya/): physically-based simulation, computational geometry, machine learning, and artificial intelligence
 
 ### Geometry
-- [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometryy. including: scene understanding, shape collections and computational design
+- [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometry. including: scene understanding, shape collections and computational design
