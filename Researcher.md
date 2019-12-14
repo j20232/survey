@@ -18,6 +18,8 @@
 
 ### Geometry
 - [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometry. including: scene understanding, shape collections and computational design
+- [MPI for Intelligent Systems: Perceiving Systems](https://ps.is.tuebingen.mpg.de/): they ecover human behavior in fine detail, including face and hand movement. They also recover the 3D structure of the world, its motion, and the objects in it so that human movement can be placed in context.
+- [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
 
 ### Computer Vision
 - [Masatoshi Ishikawa](http://ishikawa-vision.org/index-e.html): exploring parallel, high-speed, and real-time operations for sensory information processing
