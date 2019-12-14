@@ -20,4 +20,8 @@
 - [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometry. including: scene understanding, shape collections and computational design
 
 ### Computer Vision
+- [Masatoshi Ishikawa](http://ishikawa-vision.org/index-e.html): exploring parallel, high-speed, and real-time operations for sensory information processing
 - [Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/ja/research/): Gaze estimation, First-person vision, Hyperspectral imagingm Person re-identification, Photometric stereo, Reflectance and illumination analysis
+
+### Human Computer Interaction
+- [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/en/): user interfaces and interactive computer graphics
