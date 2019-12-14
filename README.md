@@ -98,7 +98,6 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 
 ### Mesh
 - [MPI-IS/mesh](https://github.com/MPI-IS/mesh): Package contains core functions for manipulating meshes and visualizing them by MPI
-- [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
 - [optimad/mimmo](https://github.com/optimad/mimmo): a C++ library for Manipulation and Morphing of surface/volume meshes
 
 ### Point cloud
