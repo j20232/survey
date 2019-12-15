@@ -22,6 +22,7 @@
 - [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
 
 ### Computer Vision
+- [Princeton ImageX Labs](https://pixl.cs.princeton.edu/): shape reconstruction
 - [Masatoshi Ishikawa](http://ishikawa-vision.org/index-e.html): exploring parallel, high-speed, and real-time operations for sensory information processing
 - [Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/ja/research/): Gaze estimation, First-person vision, Hyperspectral imagingm Person re-identification, Photometric stereo, Reflectance and illumination analysis
 - [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/): single-view 3D reconstruction
