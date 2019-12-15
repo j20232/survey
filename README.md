@@ -45,6 +45,9 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 ### Object Detection
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
 
+### Geometric Vision
+- [OpenGV](https://github.com/laurentkneip/opengv): collection of computer vision methods for solving geometric vision problems, which contains absolute-pose, relative-pose, triangulation, and point-cloud alignment methods for the calibrated case
+
 ### SLAM
 - [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera):  C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 - [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam): a monocular, stereo, and RGBD visual SLAM system
