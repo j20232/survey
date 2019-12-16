@@ -9,6 +9,11 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 
 ---
 
+## 👩‍🏫Lecture
+https://github.com/j20232/survey/blob/master/Lecture.md
+
+---
+
 ## 🌊 Continuum Simulation
 ### Material Point Method
 - [GitHub's Tag](https://github.com/topics/material-point-method)
