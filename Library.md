@@ -134,6 +134,9 @@
 ### Parallel Programming
 - [intel/tbb](https://github.com/intel/tbb): C++ library for shared memory parallel programming and heterogeneous computing (intra-node distributed memory programming)
 
+### NN
+- [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
+
 ---
 
 ## 💻 IO
