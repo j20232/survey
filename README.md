@@ -9,7 +9,7 @@ https://github.com/j20232/survey/blob/master/Researcher.md
 
 ---
 
-## 👩‍🏫Lecture
+## 👩‍🏫Lectures
 https://github.com/j20232/survey/blob/master/Lecture.md
 
 ---
