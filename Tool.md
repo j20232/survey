@@ -6,7 +6,7 @@
 - [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes): repository to research & share the machine learning articles
 
 ### Survey Tool
-
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): web interface for browsing, search and filtering recent arxiv submissions
 
 ### NN
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
