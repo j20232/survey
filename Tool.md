@@ -1,6 +1,7 @@
 ## 🔨 Tools
 ### Survey
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning): resource repository for 3D machine learning
+- [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list): curated list of papers & resources linked to 3D reconstruction from images
 - [DeepGraphLearning/LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph): comprehensive collection of recent papers on graph deep learning
 - [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes): repository to research & share the machine learning articles
 
