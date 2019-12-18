@@ -89,6 +89,7 @@
 - [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
+- [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
 
 ### Vector
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss): library for efficient similarity search and clustering of dense vectors
