@@ -10,7 +10,8 @@
 - [ReadCube](https://www.readcube.com/home): Reference Management for Researchers, by Researchers
 
 ### Writing Tool
-- [Overleaf](https://www.overleaf.com/): online LaTeX Editor
+- [Overleaf](https://www.overleaf.com/): online LaTeX editor
+- [Hyper Collocation](https://hypcol.marutank.net/ja/): dictionary based on arXiv repository
 
 ### NN
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
