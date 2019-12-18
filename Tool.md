@@ -21,3 +21,6 @@
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
 - [Papers With Code](https://paperswithcode.com/): free and open resource with Machine Learning papers, code and evaluation tables
 - [Seedbank](https://research.google.com/seedbank/): Collection of Interactive Machine Learning Examples
+
+### CV
+- [Camera Calibration Pattern Generator](https://calib.io/pages/camera-calibration-pattern-generator): Pattern generator for calibration
