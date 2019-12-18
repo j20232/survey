@@ -1,6 +1,5 @@
 ## Researchers
 ### Material Point Method
-- [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction about MPM by top researchers
 - [Joseph M. Teran](https://www.math.ucla.edu/~jteran/): computational biomechanics/virtual surgery, computational solid and fluid mechanics, meshing, collision detection/contact modeling, multigrid methods, parallel computing and solid/fluid coupling
 - [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/): how to bring physics and computer closer to develop computational tools for human to understand or interact with physically based behaviors, or for robots to perform smarter
 - [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/): physics-based animation, multicore and GPU scientific computing, computational solid and fluid mechanics including MPM
