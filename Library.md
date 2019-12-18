@@ -83,6 +83,7 @@
 
 ### Geometry
 - [CGAL/cgal](https://github.com/CGAL/cgal): a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
+- [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
 
