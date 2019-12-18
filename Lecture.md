@@ -4,6 +4,7 @@
 
 ### Fluid Simulation
 - [InteractiveComputerGraphics/SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial): "Smoothed Particle Hydrodynamics for Physically-Based Simulation of Fluids and Solids", Eurographics Tutorial, 2019
+- [tunabrain/incremental-fluids](https://github.com/tunabrain/incremental-fluids): The purpose of this project is to provide simple, easy to understand fluid solver implementations in C++, together with code documentation, algorithm explanation and recommended reading
 
 ### Geometry Processing
 - [alecjacobson/geometry-processing-csc2520](https://github.com/alecjacobson/geometry-processing-csc2520): Geometry Processing by Prof. Alec Jacobson (Univ. Toronto)
