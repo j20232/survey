@@ -8,6 +8,7 @@
 ### Survey Tool
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): web interface for browsing, search and filtering recent arxiv submissions
 - [ReadCube](https://www.readcube.com/home): Reference Management for Researchers, by Researchers
+- [Mendeley](https://www.mendeley.com/?interaction_required=true): reference manager which is used to manage and share research papers
 
 ### Writing Tool
 - [Overleaf](https://www.overleaf.com/): online LaTeX editor
