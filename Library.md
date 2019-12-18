@@ -9,7 +9,6 @@
 - [Shiokaze framework](https://github.com/ryichando/shiokaze): open-source fluid simulation solver for computer graphics
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH): open-source library about SPH, which is a popular meshless Lagrangian approach to simulate complex fluid effects
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
-- [tunabrain/incremental-fluids](https://github.com/tunabrain/incremental-fluids): The purpose of this project is to provide simple, easy to understand fluid solver implementations in C++, together with code documentation, algorithm explanation and recommended reading
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow): Research-oriented differentiable fluid simulation framework
 
 ### Position Based Dynamics
