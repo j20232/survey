@@ -16,3 +16,7 @@
 - [Overleaf](https://www.overleaf.com/): online LaTeX editor
 - [Hyper Collocation](https://hypcol.marutank.net/ja/): dictionary based on arXiv repository
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): a general resource for academic writers
+
+### NN Models
+- [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
+- [Seedbank](https://research.google.com/seedbank/): Collection of Interactive Machine Learning Examples
