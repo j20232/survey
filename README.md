@@ -97,6 +97,7 @@ https://github.com/j20232/survey/blob/master/Lecture.md
 - [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
 
 ### Geometry
+- [CGAL/cgal](https://github.com/CGAL/cgal): a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
