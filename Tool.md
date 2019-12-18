@@ -7,6 +7,10 @@
 
 ### Survey Tool
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): web interface for browsing, search and filtering recent arxiv submissions
+- [ReadCube](https://www.readcube.com/home): Reference Management for Researchers, by Researchers
+
+### Writing Tool
+- [Overleaf](https://www.overleaf.com/): online LaTeX Editor
 
 ### NN
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
