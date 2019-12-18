@@ -1,4 +1,4 @@
-## Lectures
+## 👩‍🏫Lectures
 ### Material Point Method
 - [MPM COURSES FROM SIGGRAPH](https://www.seas.upenn.edu/~cffjiang/mpmcourse.html): introduction about MPM by top researchers
 
