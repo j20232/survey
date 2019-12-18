@@ -16,6 +16,9 @@
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
 - [ltt1598/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials](https://github.com/ltt1598/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials): approximation methods for realtime PBD
 
+### FEM
+- [GPUOpen-Effects/FEMFX](https://github.com/GPUOpen-Effects/FEMFX): a multithreaded CPU library for deformable material physics, using the Finite Element Method (FEM)
+
 ### Physics Engine
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3): official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 - [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX): a scalable multi-platform physics solution supporting a wide range of devices, from smartphones to high-end multicore CPUs and GPUs
