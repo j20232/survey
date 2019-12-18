@@ -1,4 +1,4 @@
-## Researchers
+## ⚗️ Researchers
 ### Material Point Method
 - [Joseph M. Teran](https://www.math.ucla.edu/~jteran/): computational biomechanics/virtual surgery, computational solid and fluid mechanics, meshing, collision detection/contact modeling, multigrid methods, parallel computing and solid/fluid coupling
 - [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/): how to bring physics and computer closer to develop computational tools for human to understand or interact with physically based behaviors, or for robots to perform smarter
