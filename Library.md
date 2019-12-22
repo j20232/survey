@@ -77,6 +77,9 @@
 - [Kitware/VTK](https://github.com/Kitware/VTK): an open-source software system for image processing, 3D graphics, volume rendering and visualization
 - [pyvista/pyvista](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
+### Denoiser
+- [OpenImageDenoise/oidn](https://github.com/OpenImageDenoise/oidn): an open source library of high-performance, high-quality denoising filters for images rendered with ray tracing
+
 ---
 
 ## 🌐 Data Structure
