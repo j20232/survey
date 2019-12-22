@@ -18,6 +18,7 @@
 
 ### FEM
 - [GPUOpen-Effects/FEMFX](https://github.com/GPUOpen-Effects/FEMFX): a multithreaded CPU library for deformable material physics, using the Finite Element Method (FEM)
+- [mfem/mfem](https://github.com/mfem/mfem): a modular parallel C++ library for finite element methods
 
 ### Physics Engine
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3): official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
