@@ -11,6 +11,7 @@
 - [Mendeley](https://www.mendeley.com/?interaction_required=true): reference manager which is used to manage and share research papers
 - [ACM Digital Library](https://dl.acm.org/): ACM's platform
 - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp): IEEE's platform
+- [FYFD](https://fuckyeahfluiddynamics.tumblr.com/archive): a science and engineering outreach blog with a new post about the physics of liquids, gases, plasmas, or granular materials—anything that behaves like a fluid—five times a week
 
 ### Writing Tool
 - [Overleaf](https://www.overleaf.com/): online LaTeX editor
