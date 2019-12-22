@@ -90,6 +90,7 @@
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
 - [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
+- [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library): a modern C++ open-source library for digital geometry processing
 
 ### Vector
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss): library for efficient similarity search and clustering of dense vectors
