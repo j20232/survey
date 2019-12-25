@@ -17,6 +17,7 @@
 - [Tetsuya Takahashi](http://www.cs.unc.edu/~tetsuya/): physically-based simulation, computational geometry, machine learning, and artificial intelligence
 
 ### Geometry
+- [Interactive Geometry Lab](https://igl.ethz.ch/): a research group within the Institute of Visual Computing of ETH Zurich, led by Prof. Olga Sorkine-Hornung
 - [UCL Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php): the acquisition and processing of 3D geometry. including: scene understanding, shape collections and computational design
 - [MPI for Intelligent Systems: Perceiving Systems](https://ps.is.tuebingen.mpg.de/): they ecover human behavior in fine detail, including face and hand movement. They also recover the 3D structure of the world, its motion, and the objects in it so that human movement can be placed in context.
 - [REAL VIRTUAL HUMANS](https://virtualhumans.mpi-inf.mpg.de/): research group at MPI to make virtual humans that look, move and eventually think like real ones
