@@ -24,6 +24,7 @@
 
 ### Computer Vision
 - [Princeton ImageX Labs](https://pixl.cs.princeton.edu/): shape reconstruction
+- [Aizawa/Yamazaki Lab](https://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml): Object Recognition & Optimization, Multimedia Lifelog, Foodlog, 3D & Omnidirectional Image Processing, Manga Image Processing, Multimodal Processing, Attractiveness Computing, A New Domain of Machine Learning & Pattern Recognition, Application to Real World Problems
 - [Masatoshi Ishikawa](http://ishikawa-vision.org/index-e.html): exploring parallel, high-speed, and real-time operations for sensory information processing
 - [Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/ja/research/): Gaze estimation, First-person vision, Hyperspectral imagingm Person re-identification, Photometric stereo, Reflectance and illumination analysis
 - [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/): single-view 3D reconstruction
