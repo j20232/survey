@@ -13,6 +13,7 @@
 
 ### Computer Graphics
 - [CGMA](https://www.cgmasteracademy.com/): online courses for a successful career in the Art, Games & VFX industries
+- [CG Boost](https://cgboost.com/): Blender tutorials
 - [Computer Graphics Learning Materials](https://cglearn.codelight.eu/pub/computer-graphics): introducing the geometry and transformations used to represent and position objects in 3D space
 - [Introduction to Computer Graphics 2019 (School of Science, Univ. Tokyo)](http://research.nii.ac.jp/~takayama/teaching/utokyo-iscg-2019/): by [Kenshi Takayama](http://research.nii.ac.jp/~takayama/) and [Ryoichi Ando](http://research.nii.ac.jp/~rand/index.html)
 
