@@ -19,7 +19,10 @@
 - [Introduction to Computer Graphics 2019 (School of Science, Univ. Tokyo)](http://research.nii.ac.jp/~takayama/teaching/utokyo-iscg-2019/): by [Kenshi Takayama](http://research.nii.ac.jp/~takayama/) and [Ryoichi Ando](http://research.nii.ac.jp/~rand/index.html)
 
 ### Linear Algebra
-- [SVD(Singular Value Decomposition) and Its Applications](https://pdfslide.net/documents/svdsingular-value-decomposition-and-its-applications-joon-jae-lee-2006-0110.html): there are many examples for CV and CG 
+- [SVD(Singular Value Decomposition) and Its Applications](https://pdfslide.net/documents/svdsingular-value-decomposition-and-its-applications-joon-jae-lee-2006-0110.html): there are many examples for CV and CG
+
+### NN
+- [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
 
 ### Bayesian Analysis
 - [aloctavodia/BAP](https://github.com/aloctavodia/BAP): the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition)
