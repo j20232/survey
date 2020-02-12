@@ -7,6 +7,7 @@
 - [tunabrain/incremental-fluids](https://github.com/tunabrain/incremental-fluids): The purpose of this project is to provide simple, easy to understand fluid solver implementations in C++, together with code documentation, algorithm explanation and recommended reading
 
 ### Geometry Processing
+- [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/): the goal is to show how fundamental geometric concepts (like curvature) can be understood from complementary computational and mathematical points of view
 - [alecjacobson/geometry-processing-csc2520](https://github.com/alecjacobson/geometry-processing-csc2520): Geometry Processing by Prof. Alec Jacobson (Univ. Toronto)
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial): an introductory tutorial on 3D vision (a.k.a. geometric vision or visual geometry or multi-view geometry
 
