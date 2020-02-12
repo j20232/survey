@@ -11,6 +11,7 @@
 - [Mendeley](https://www.mendeley.com/?interaction_required=true): reference manager which is used to manage and share research papers
 - [ACM Digital Library](https://dl.acm.org/): ACM's platform
 - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp): IEEE's platform
+- [GPUOpen](https://gpuopen.com/): an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software
 - [FYFD](https://fuckyeahfluiddynamics.tumblr.com/archive): a science and engineering outreach blog with a new post about the physics of liquids, gases, plasmas, or granular materials—anything that behaves like a fluid—five times a week
 
 ### Writing Tool
