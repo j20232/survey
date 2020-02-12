@@ -20,9 +20,11 @@
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): a general resource for academic writers
 
 ### Environment
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 - [ufoym/deepo](https://github.com/ufoym/deepo): Set up deep learning environment in a single command line
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): a framework for elegantly configuring complex applications
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo): Easy access to gitignore boilerplates
+- [kmyk/online-judge-tools](https://github.com/kmyk/online-judge-tools): Tools for online judge services. Downloading sample cases, Testing/Submitting your code, and various utilities
 
 ### NN Models
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
