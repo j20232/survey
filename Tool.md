@@ -24,4 +24,5 @@
 - [Seedbank](https://research.google.com/seedbank/): Collection of Interactive Machine Learning Examples
 
 ### CV
+- [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/): a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download
 - [Camera Calibration Pattern Generator](https://calib.io/pages/camera-calibration-pattern-generator): Pattern generator for calibration
