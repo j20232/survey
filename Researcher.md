@@ -43,3 +43,4 @@
 - [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/en/): user interfaces and interactive computer graphics
 - [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/): Integrated design, Interactive simulation, Fabrication, FEM, Machine learning for 3D geometry, Data-driven physics modeling, Biomechanical simulation
 - [Yuki Koyama](https://koyama.xyz/): Computational design frameworks that explicitly model human preference, Computational design frameworks for functional fabrication, Expressive computer animation
+- [Michinao Hashimoto](https://people.sutd.edu.sg/~hashimoto/): interdisciplinary research group applying microfluidics and digital fabrication for various problems in biomedical engineering
