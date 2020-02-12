@@ -19,6 +19,9 @@
 - [Hyper Collocation](https://hypcol.marutank.net/ja/): dictionary based on arXiv repository
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): a general resource for academic writers
 
+### Environment
+- [ufoym/deepo](https://github.com/ufoym/deepo): Set up deep learning environment in a single command line
+
 ### NN Models
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
 - [Papers With Code](https://paperswithcode.com/): free and open resource with Machine Learning papers, code and evaluation tables
