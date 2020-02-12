@@ -22,6 +22,7 @@
 ### Environment
 - [ufoym/deepo](https://github.com/ufoym/deepo): Set up deep learning environment in a single command line
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): a framework for elegantly configuring complex applications
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo): Easy access to gitignore boilerplates
 
 ### NN Models
 - [Model Zoo](https://modelzoo.co/): search engine to discover open source deep learning code and pretrained models
