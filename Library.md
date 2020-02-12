@@ -34,6 +34,7 @@
 
 ### 3D Vision
 - [pqhieu/torch3d](https://github.com/pqhieu/torch3d): a PyTorch library consisting of datasets, model architectures, and common operations for 3D deep learning
+- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d): FAIR's library of reusable components for deep learning with 3D data
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin): a PyTorch Library for Accelerating 3D Deep Learning Research
 - [holistic-3d/holistic-3d-resources](https://github.com/holistic-3d/holistic-3d-resources): a  list of papers and resources for holistic 3D reconstruction
 
@@ -93,6 +94,7 @@
 - [CGAL/cgal](https://github.com/CGAL/cgal): a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
 - [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
+- [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb): an open source C++ library comprising a novel hierarchical data structure and a large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
 - [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
 - [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library): a modern C++ open-source library for digital geometry processing
