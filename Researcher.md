@@ -12,6 +12,7 @@
 - [Thuerey Group](https://ge.in.tum.de/): numerical methods for physics simulations with deep learning
 - [Ryoichi Ando](http://research.nii.ac.jp/~rand/): fluid animation for computer graphics
 - [Pascal Barla](https://www.labri.fr/perso/barla/blog/?page_id=81): understand how structural properties of substances (elasticity, plasticity, viscosity) are perceived in order to enable more direct artistic editing, avoiding trial and error common with simulations
+- [Makoto Fujisawa](http://www.slis.tsukuba.ac.jp/pbcglab/): Physics simulation to achieve realistic representation of natural phenomena
 - [Yoshinori Dobashi](https://ime.ist.hokudai.ac.jp/~doba/projects.html): SPH
 - [Syuhei Sato](http://nishitalab.org/user/syuhei/index_eng.php): turbulence style transfer and interpolation of flow field
 - [Tetsuya Takahashi](http://www.cs.unc.edu/~tetsuya/): physically-based simulation, computational geometry, machine learning, and artificial intelligence
