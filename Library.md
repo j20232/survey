@@ -83,21 +83,23 @@
 ### Denoiser
 - [OpenImageDenoise/oidn](https://github.com/OpenImageDenoise/oidn): an open source library of high-performance, high-quality denoising filters for images rendered with ray tracing
 
+### Geometry
+- [CGAL/cgal](https://github.com/CGAL/cgal): a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
+- [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
+- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+- [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
+- [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb): an open source C++ library comprising a novel hierarchical data structure and a large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
+- [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
+- [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library): a modern C++ open-source library for digital geometry processing
+- [neka-nat/cupoch](https://github.com/neka-nat/cupoch): CUDA-based 3D data processing library with Open3D-like API
+
 ---
 
 ## 🌐 Data Structure
 
 ### General
 - [assimp/assimp](https://github.com/assimp/assimp): a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data
-
-### Geometry
-- [CGAL/cgal](https://github.com/CGAL/cgal): a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry
-- [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
-- [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
-- [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb): an open source C++ library comprising a novel hierarchical data structure and a large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
-- [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
-- [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library): a modern C++ open-source library for digital geometry processing
 
 ### Vector
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss): library for efficient similarity search and clustering of dense vectors
