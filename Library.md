@@ -88,6 +88,7 @@
 - [ShapeOp](https://www.shapeop.org/): a header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints
 - [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [libigl/libigl](https://github.com/libigl/libigl): a simple C++ geometry processing library
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric): Geometric Deep Learning Extension Library for PyTorch
 - [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb): an open source C++ library comprising a novel hierarchical data structure and a large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): an open-source parametric 3D modeler made primarily to design real-life objects of any size
 - [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl): a library for performing three types of proximity queries on a pair of geometric models composed of triangles
