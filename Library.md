@@ -42,6 +42,9 @@
 ### Object Detection
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's SOTA implementation for object detection
 
+### Segmentation
+- [pymatting/pymatting](https://github.com/pymatting/pymatting): various methods to solve the alpha matting problem
+
 ### Geometric Vision
 - [OpenGV](https://github.com/laurentkneip/opengv): collection of computer vision methods for solving geometric vision problems, which contains absolute-pose, relative-pose, triangulation, and point-cloud alignment methods for the calibrated case
 
