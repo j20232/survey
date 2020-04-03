@@ -11,6 +11,7 @@
 - [thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning): links to works on deep learning algorithms for physics problems, with a particular emphasis on fluid flow, i.e., Navier-Stokes related problems
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow): Research-oriented differentiable fluid simulation framework
 - [Palabos library](https://palabos.unige.ch/): a framework for general-purpose computational fluid dynamics (CFD), with a kernel based on the lattice Boltzmann (LB) method
+- [wi-re/openMaelstrom](https://github.com/wi-re/openMaelstrom): An open source GPU based SPH simulation with support for spatial adaptivity
 
 ### Position Based Dynamics
 - [InteractiveComputerGraphics/PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics): a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
