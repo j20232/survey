@@ -32,6 +32,13 @@
 - [Seedbank](https://research.google.com/seedbank/): Collection of Interactive Machine Learning Examples
 
 ### CV
+- [Camera Calibration Pattern Generator](https://calib.io/pages/camera-calibration-pattern-generator): Pattern generator for calibration
+
+### 3D Models
+- [3D Model Haven](https://3dmodelhaven.com/): constantly growing community-funded resource of open content, for complete freedom and usability by professionals and hobbyists alike
+
+### Images
 - [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/): a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download
 - [Google Images Download](https://github.com/hardikvasa/google-images-download): Python Script to download hundreds of images from 'Google Images
-- [Camera Calibration Pattern Generator](https://calib.io/pages/camera-calibration-pattern-generator): Pattern generator for calibration
+- [HDRI Haven](https://hdrihaven.com/): Higher resolution HDRIs
+- [Texture Haven](https://texturehaven.com/): 8k textures, PNG files, increasing uploads and more
