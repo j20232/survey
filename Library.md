@@ -128,6 +128,9 @@
 ### obj
 - [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader): Tiny but powerful single file wavefront obj loader written in C++03
 
+### json
+- [kazuho/picojson](https://github.com/kazuho/picojson): a header-file-only, JSON parser serializer in C++
+
 ### glTF
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf): Header only C++11 tiny glTF 2.0 library
