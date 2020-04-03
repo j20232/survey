@@ -127,6 +127,10 @@
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf): Convert OBJ assets to glTF
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf): Header only C++11 tiny glTF 2.0 library
 
+### Parametric Faces
+
+- [soubhiksanyal/FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME: Faces Learned with an Articulated Model and Expressions (PyTorch)
+
 ---
 
 ## 📈 Numerical Calculation
