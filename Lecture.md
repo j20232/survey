@@ -18,6 +18,9 @@
 - [Stanford University CS 348C: Computer Graphics: Animation and Simulation](http://graphics.stanford.edu/courses/cs348c-17-fall/): Core mathematics and methods for computer animation and motion simulation
 - [Introduction to Computer Graphics 2019 (School of Science, Univ. Tokyo)](http://research.nii.ac.jp/~takayama/teaching/utokyo-iscg-2019/): by [Kenshi Takayama](http://research.nii.ac.jp/~takayama/) and [Ryoichi Ando](http://research.nii.ac.jp/~rand/index.html)
 
+### GL
+- [Learn OpenGL](https://learnopengl.com/): odern OpenGL in an easy-to-understand fashion with clear examples, while also providing a useful reference for later studies
+
 ### Vulkan
 - [yoshimune/VulkanTutorial](https://github.com/yoshimune/VulkanTutorial): official tutorial in Japanese
 
