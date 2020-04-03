@@ -18,6 +18,9 @@
 - [Stanford University CS 348C: Computer Graphics: Animation and Simulation](http://graphics.stanford.edu/courses/cs348c-17-fall/): Core mathematics and methods for computer animation and motion simulation
 - [Introduction to Computer Graphics 2019 (School of Science, Univ. Tokyo)](http://research.nii.ac.jp/~takayama/teaching/utokyo-iscg-2019/): by [Kenshi Takayama](http://research.nii.ac.jp/~takayama/) and [Ryoichi Ando](http://research.nii.ac.jp/~rand/index.html)
 
+### Vulkan
+- [yoshimune/VulkanTutorial](https://github.com/yoshimune/VulkanTutorial): official tutorial in Japanese
+
 ### Linear Algebra
 - [SVD(Singular Value Decomposition) and Its Applications](https://pdfslide.net/documents/svdsingular-value-decomposition-and-its-applications-joon-jae-lee-2006-0110.html): there are many examples for CV and CG
 
