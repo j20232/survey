@@ -130,6 +130,7 @@
 
 ### obj
 - [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader): Tiny but powerful single file wavefront obj loader written in C++03
+- [neverhood311/Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ): A Blender add-on for importing a sequence of OBJ meshes as frames
 
 ### json
 - [kazuho/picojson](https://github.com/kazuho/picojson): a header-file-only, JSON parser serializer in C++
