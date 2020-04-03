@@ -27,6 +27,9 @@
 - [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX): a scalable multi-platform physics solution supporting a wide range of devices, from smartphones to high-end multicore CPUs and GPUs
 - [yuanming-hu/difftaichi](https://github.com/yuanming-hu/difftaichi): 10 Differentiable Physical Simulators Built with Taichi Differentiable Programming (DiffTaichi)
 
+### Cloth
+- [mmmovania/opencloth](https://github.com/mmmovania/opencloth): A collection of source codes implementing cloth simulation algorithms in OpenGL
+
 ---
 
 ## 📷 Computer Vision
