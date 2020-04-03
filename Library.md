@@ -60,6 +60,7 @@
 - [jgbit/vuda](https://github.com/jgbit/vuda): a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications
 
 ### Renderer
+- [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2): a research-oriented rendering system written in portable C++17, which consists of a small set of core libraries and a wide variety of plugins that implement functionality ranging from materials and light sources to complete rendering algorithms
 - [mitsuba-renderer/mitsuba](https://github.com/mitsuba-renderer/mitsuba):  research-oriented rendering system in the style of PBRT, from which it derives much inspiration. It is written in portable C++, implements unbiased as well as biased techniques, and contains heavy optimizations targeted towards current CPU architectures 
 - [google/filament](https://github.com/google/filament): a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [lighttransport/nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
